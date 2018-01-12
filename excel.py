@@ -1,0 +1,3 @@
+import xlwings
+from xlwings._xlwindows import get_excel_hwnds,get_duplicates,get_xl_app_from_hwnd,get_xl_apps,prepare_xl_data_element
+
